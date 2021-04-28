@@ -21,7 +21,7 @@ class App extends Component {
 
   componentDidMount() {
     //Ajax call
-    console.log("did mount")
+    // console.log("did mount")
   }
   state = {
     counters: [
